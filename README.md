@@ -13,3 +13,7 @@ HTML for structure
 CSS for styling (modern design & hover effects)
 
 JavaScript for stopwatch logic
+
+## 🚀 Live Demo  
+Check out the live version of this project:  
+🔗 [Stopwatch Timer on Netlify](https://stopwatch-with-timer.netlify.app/)
